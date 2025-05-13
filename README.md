@@ -1,2 +1,1 @@
-# gitworkshop
-PU Tech Club
+Rajan Bhandari
